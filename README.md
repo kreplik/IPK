@@ -1,1 +1,1 @@
-# IPK
+# POČÍTAČOVÉ KOMUNIKACE A SÍTĚ
